@@ -19,3 +19,19 @@ https://policies.google.com/privacy
 
 ## About
 Brewco is designed for personal use, with a focus on simplicity, consistency, and better coffee brewing.
+
+## Privacy Policy
+
+Brewco respects your privacy.
+
+The app does not require user accounts and does not collect personal information directly.
+
+Brewco uses Google AdMob to display ads. Google AdMob may collect certain data automatically, such as device identifiers, approximate location, and usage data, for advertising and analytics purposes. This data is not linked to the user’s identity by Brewco.
+
+Brewco does not sell personal data.
+
+For more information about how Google handles data, please see:
+https://policies.google.com/privacy
+
+If you have questions about this privacy policy, you can contact us at:
+abllogra@gmail.com
